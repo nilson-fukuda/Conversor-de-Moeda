@@ -120,7 +120,6 @@ public class MenuPrincipal {
 				} catch (NumberFormatException e) {
 					JOptionPane.showMessageDialog(null, "Valor inválido!");
 				}
-
 			}
 
 			continua = JOptionPane.showConfirmDialog(null, "Deseja continuar?", "Escolha uma opção ...",
